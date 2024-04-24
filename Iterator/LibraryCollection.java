@@ -1,0 +1,4 @@
+interface LibraryCollection {
+    Iterator createIterator();
+}
+
